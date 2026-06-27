@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddModelForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddScooterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminModelsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminPaymentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRentalsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminScootersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignRentalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CompleteRentalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditScooterStatusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUserCredentialsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
